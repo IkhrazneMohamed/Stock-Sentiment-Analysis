@@ -1,0 +1,12 @@
+
+##
+.idea
+
+## log files
+Scraping/reuters/save.txt
+
+## files for saving data to track the applicition
+Scraping/reuters/text.txt
+
+##secret keys
+secret_keys.py
