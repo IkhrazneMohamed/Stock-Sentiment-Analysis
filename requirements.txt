@@ -1,4 +1,11 @@
 selenium
 pandas
 requests
-openpyxl
+sklearn
+numpy
+seaborn
+missingno
+matplotlib
+wordcloud
+spacy
+plotly
